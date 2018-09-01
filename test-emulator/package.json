@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app",
-    "ex1": "node ex1"
+    "ex1": "node Input",
+    "ex2": "node form-prompt"
   },
   "author": "",
   "license": "ISC",

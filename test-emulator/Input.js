@@ -30,3 +30,7 @@ const bot = new builder.UniversalBot(connector, [
             session.send('I am your bot! :D');
     }
 ]);
+
+bot.dialog('greeting', ()=>{
+    
+})
